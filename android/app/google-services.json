@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6679062448",
+    "project_id": "ecosmart-b3e0a",
+    "storage_bucket": "ecosmart-b3e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6679062448:android:d5f066e46f4c9267501875",
+        "android_client_info": {
+          "package_name": "com.example.ecosmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsw-eLuee_1EtEf3iaE99WB9KO8WOxyx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
