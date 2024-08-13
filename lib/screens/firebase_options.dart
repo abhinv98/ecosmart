@@ -29,46 +29,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'PLACEHOLDER',
-    appId: 'PLACEHOLDER',
-    messagingSenderId: 'PLACEHOLDER',
-    projectId: 'PLACEHOLDER',
-    storageBucket: 'PLACEHOLDER',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_ANDROID_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'PLACEHOLDER',
-    appId: 'PLACEHOLDER',
-    messagingSenderId: 'PLACEHOLDER',
-    projectId: 'PLACEHOLDER',
-    storageBucket: 'PLACEHOLDER',
-    iosBundleId: 'PLACEHOLDER',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_IOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'PLACEHOLDER',
-    appId: 'PLACEHOLDER',
-    messagingSenderId: 'PLACEHOLDER',
-    projectId: 'PLACEHOLDER',
-    storageBucket: 'PLACEHOLDER',
-    measurementId: 'PLACEHOLDER',
+    apiKey: 'YOUR_WEB_API_KEY',
+    appId: 'YOUR_WEB_APP_ID',
+    messagingSenderId: 'YOUR_WEB_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'PLACEHOLDER',
-    appId: 'PLACEHOLDER',
-    messagingSenderId: 'PLACEHOLDER',
-    projectId: 'PLACEHOLDER',
-    storageBucket: 'PLACEHOLDER',
-    iosBundleId: 'com.example.ecosmart',
+    apiKey: 'YOUR_MACOS_API_KEY',
+    appId: 'YOUR_MACOS_APP_ID',
+    messagingSenderId: 'YOUR_MACOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_MACOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'PLACEHOLDER',
-    appId: 'PLACEHOLDER',
-    messagingSenderId: 'PLACEHOLDER',
-    projectId: 'PLACEHOLDER',
-    storageBucket: 'PLACEHOLDER',
-    measurementId: 'PLACEHOLDER',
+    apiKey: 'YOUR_WINDOWS_API_KEY',
+    appId: 'YOUR_WINDOWS_APP_ID',
+    messagingSenderId: 'YOUR_WINDOWS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 }
