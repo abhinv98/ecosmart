@@ -29,49 +29,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCsw-eLuee_1EtEf3iaE99WB9KO8WOxyx4',
-    appId: '1:6679062448:android:d5f066e46f4c9267501875',
-    messagingSenderId: '6679062448',
-    projectId: 'ecosmart-b3e0a',
-    storageBucket: 'ecosmart-b3e0a.appspot.com',
+    apiKey: 'PLACEHOLDER',
+    appId: 'PLACEHOLDER',
+    messagingSenderId: 'PLACEHOLDER',
+    projectId: 'PLACEHOLDER',
+    storageBucket: 'PLACEHOLDER',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCsB6oJlhCq6ilp7iuUo_4Cmy39HGCkG34',
-    appId: '1:6679062448:ios:ede8afdc8c6d295d501875',
-    messagingSenderId: '6679062448',
-    projectId: 'ecosmart-b3e0a',
-    storageBucket: 'ecosmart-b3e0a.appspot.com',
-    iosBundleId: 'com.example.ecosmart',
+    apiKey: 'PLACEHOLDER',
+    appId: 'PLACEHOLDER',
+    messagingSenderId: 'PLACEHOLDER',
+    projectId: 'PLACEHOLDER',
+    storageBucket: 'PLACEHOLDER',
+    iosBundleId: 'PLACEHOLDER',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyByQlfT3nL7bwcaGv2meGIsn2qCuqjZM3U',
-    appId: '1:6679062448:web:6aa6edd151289374501875',
-    messagingSenderId: '6679062448',
-    projectId: 'ecosmart-b3e0a',
-    authDomain: 'ecosmart-b3e0a.firebaseapp.com',
-    storageBucket: 'ecosmart-b3e0a.appspot.com',
-    measurementId: 'G-4M8KQNQ02V',
+    apiKey: 'PLACEHOLDER',
+    appId: 'PLACEHOLDER',
+    messagingSenderId: 'PLACEHOLDER',
+    projectId: 'PLACEHOLDER',
+    storageBucket: 'PLACEHOLDER',
+    measurementId: 'PLACEHOLDER',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCsB6oJlhCq6ilp7iuUo_4Cmy39HGCkG34',
-    appId: '1:6679062448:ios:ede8afdc8c6d295d501875',
-    messagingSenderId: '6679062448',
-    projectId: 'ecosmart-b3e0a',
-    storageBucket: 'ecosmart-b3e0a.appspot.com',
+    apiKey: 'PLACEHOLDER',
+    appId: 'PLACEHOLDER',
+    messagingSenderId: 'PLACEHOLDER',
+    projectId: 'PLACEHOLDER',
+    storageBucket: 'PLACEHOLDER',
     iosBundleId: 'com.example.ecosmart',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyByQlfT3nL7bwcaGv2meGIsn2qCuqjZM3U',
-    appId: '1:6679062448:web:d285b36b167d8aaa501875',
-    messagingSenderId: '6679062448',
-    projectId: 'ecosmart-b3e0a',
-    authDomain: 'ecosmart-b3e0a.firebaseapp.com',
-    storageBucket: 'ecosmart-b3e0a.appspot.com',
-    measurementId: 'G-HZ8VQRY40B',
+    apiKey: 'PLACEHOLDER',
+    appId: 'PLACEHOLDER',
+    messagingSenderId: 'PLACEHOLDER',
+    projectId: 'PLACEHOLDER',
+    storageBucket: 'PLACEHOLDER',
+    measurementId: 'PLACEHOLDER',
   );
-
 }
